@@ -25,4 +25,4 @@ The dataset contains two key variables:
 ## Installation  
 To install the necessary dependencies, run the following command in R:  
 ```R
-install.packages("forecast")
+install.packages(c("forecast","tibble"))
