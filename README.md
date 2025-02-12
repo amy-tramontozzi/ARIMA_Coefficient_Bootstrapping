@@ -1,7 +1,5 @@
 # ARIMA Model Estimation and Bootstrap Confidence Intervals
 
-# ARIMA Model Estimation and Bootstrap Confidence Intervals
-
 ## Project Overview  
 This project demonstrates how to bootstrap the residuals of an ARIMA(1,0,1) model to estimate 95% confidence intervals for the AR(1) and MA(1) coefficients. It compares the bootstrapped confidence intervals with the parametric intervals derived from the original ARMA(1,1) model, providing insights into model stability and estimation uncertainty.
 
